@@ -1,0 +1,1 @@
+<h1>WELCOME.BLADE.PHP</h1>
